@@ -1,0 +1,8 @@
+syntax: glob
+Library
+Temp
+unity-arkit-plugin.sln
+unity-arkit-plugin.userprefs
+obj
+.DS_Store
+*.csproj
