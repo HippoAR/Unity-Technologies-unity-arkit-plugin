@@ -1,16 +1,11 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/hitCatControl.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/ShootManager.cs">
     <Files>
-      <File FileName="Assets/UnityARKitPlugin/Plugins/iOS/UnityARKit/Helpers/UnityARKitControl.cs" Line="1" Column="1" />
-      <File FileName="Assets/UnityARKitPlugin/Examples/UnityARBallz/BallMaker.cs" Line="1" Column="1" />
-      <File FileName="Assets/UnityARKitPlugin/Plugins/iOS/UnityARKit/Helpers/UnityARCameraManager.cs" Line="1" Column="1" />
-      <File FileName="Assets/UnityARKitPlugin/Examples/UnityARBallz/BallMover.cs" Line="1" Column="1" />
-      <File FileName="Assets/Character/CommodityProgect/ShowAnimation.cs" Line="1" Column="1" />
-      <File FileName="Assets/test/PetAR/Joystick.cs" Line="1" Column="1" />
-      <File FileName="Assets/test/PetAR/PetControl.cs" Line="1" Column="1" />
-      <File FileName="Assets/hitCatControl.cs" Line="28" Column="41" />
-      <File FileName="Assets/UnityARKitPlugin/Plugins/iOS/UnityARKit/Helpers/UnityARGeneratePlane.cs" Line="1" Column="1" />
+      <File FileName="Assets/UnityARKitPlugin/Plugins/iOS/UnityARKit/Helpers/UnityARGeneratePlane.cs" Line="24" Column="1" />
+      <File FileName="Assets/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/UnityARSessionNativeInterface.cs" Line="212" Column="2" />
+      <File FileName="Assets/Script/ShootManager.cs" Line="7" Column="31" />
+      <File FileName="Assets/Script/hitCatControl.cs" Line="21" Column="32" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
